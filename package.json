@@ -1,0 +1,23 @@
+{
+  "name": "maibot",
+  "main": "main.js",
+  "author": "Maiwald",
+  "version": "4.1.0",
+  "repository": "https://github.com/Maiwaldgithub/MaiBot.git",
+  "description": "Discord music bot.",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "dependencies": {
+    "discord-player": "^5.2.2",
+    "discord.js": "^13.1.0",
+    "dotenv": "^16.0.1",
+    "ffmpeg-static": "^4.4.0",
+    "ms": "^3.0.0-canary.1",
+    "opusscript": "^0.0.8",
+    "ytdl-core": "^4.9.2"
+  },
+  "devDependencies": {
+    "node": "^18.5.0"
+  }
+}
