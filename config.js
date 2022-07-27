@@ -1,7 +1,7 @@
 module.exports = {
     app: {
         px: '$',
-        token: process.env.TOKEN,
+        token: 'MTAwMDQxMDIwMzkxODk2NjgwNA.GYFrFC.EmJg49X-yxERulwkUe_eqhA122CRQoBw2SYHEI',
         playing: 'www.misspandabot.ml'
     },
 
